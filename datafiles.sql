@@ -54,8 +54,6 @@ INSERT INTO trans (profile_id, product_id, amount) VALUES
 
 -- Product Inventory Table Data
 INSERT INTO product_inventory (product_id, quantity) VALUES
-(1, 10),
-(2, 25),
 (3, 15),
 (4, 5),
 (5, 30),
